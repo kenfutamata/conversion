@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\conversion.Form1.resources
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\conversion.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\conversion.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\conversion.AssemblyInfo.cs
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\conversion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\conversion\conversion\bin\Debug\net8.0-windows\conversion.exe
+C:\Users\Admin\source\repos\conversion\conversion\bin\Debug\net8.0-windows\conversion.deps.json
+C:\Users\Admin\source\repos\conversion\conversion\bin\Debug\net8.0-windows\conversion.runtimeconfig.json
+C:\Users\Admin\source\repos\conversion\conversion\bin\Debug\net8.0-windows\conversion.dll
+C:\Users\Admin\source\repos\conversion\conversion\bin\Debug\net8.0-windows\conversion.pdb
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\conversion.dll
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\refint\conversion.dll
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\conversion.pdb
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\conversion.genruntimeconfig.cache
+C:\Users\Admin\source\repos\conversion\conversion\obj\Debug\net8.0-windows\ref\conversion.dll
